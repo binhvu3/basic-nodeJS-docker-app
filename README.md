@@ -34,3 +34,5 @@ This project uses the following technologies:
 - npm: The Node Package Manager, used to install and manage dependencies.
 - Docker: A platform to develop, ship, and run applications inside containers, ensuring consistent environments across different stages of development.
 - Alpine Linux: A security-oriented, lightweight Linux distribution. The base image node:22-alpine is used to keep the Docker image small and secure.
+
+This project followed instruction from [https://www.youtube.com/watch?v=pg19Z8LL06w][TechWorld with Nana - Docker Crash Course for Absolute Beginners [NEW]]
